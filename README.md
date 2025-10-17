@@ -1,1 +1,3 @@
-# tpiuo
+- Ime: Lovro
+- Prezime: Blagic
+- Email: lb56658@fer.hr
